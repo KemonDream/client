@@ -1,0 +1,27 @@
+# Build results
+bin/
+obj/
+*.algo
+*.metadata
+*.deps.json
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln.iml
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# ReSharper
+.idea/
+*.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
